@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mart.API", "Mart\Mart.API.csproj", "{FB7E614D-CE4A-4D1C-A928-D3999395C49B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "srs", "srs", "{E9F8E7F1-EDD3-44EF-8054-428BC81135BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7E614D-CE4A-4D1C-A928-D3999395C49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7E614D-CE4A-4D1C-A928-D3999395C49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7E614D-CE4A-4D1C-A928-D3999395C49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7E614D-CE4A-4D1C-A928-D3999395C49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB7E614D-CE4A-4D1C-A928-D3999395C49B} = {E9F8E7F1-EDD3-44EF-8054-428BC81135BE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A23D41A6-373B-4285-9844-EEEF9BFEEE80}
+	EndGlobalSection
+EndGlobal

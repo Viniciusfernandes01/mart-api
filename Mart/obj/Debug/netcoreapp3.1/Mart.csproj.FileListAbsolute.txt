@@ -1,0 +1,15 @@
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\bin\Debug\netcoreapp3.1\Mart.exe
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\obj\Debug\netcoreapp3.1\Mart.csprojAssemblyReference.cache
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\obj\Debug\netcoreapp3.1\Mart.AssemblyInfoInputs.cache
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\obj\Debug\netcoreapp3.1\Mart.AssemblyInfo.cs
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\obj\Debug\netcoreapp3.1\Mart.RazorTargetAssemblyInfo.cache
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\obj\Debug\netcoreapp3.1\staticwebassets\Mart.StaticWebAssets.Manifest.cache
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\obj\Debug\netcoreapp3.1\staticwebassets\Mart.StaticWebAssets.xml
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\viniciusfernandes\source\repos\Mart\Mart\obj\Debug\netcoreapp3.1\Mart.csproj.CopyComplete
